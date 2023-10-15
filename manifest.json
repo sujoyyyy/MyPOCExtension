@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "BuildMap",
+  "version": "1.0",
+  "description": "Start Right, Build Smart",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
